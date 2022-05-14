@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/gh/berkeli/node-challenge-chat-server/branch/london-class-8/berkeli-halmyradov/graph/badge.svg?token=MC7ANPZZTE)](https://codecov.io/gh/berkeli/node-challenge-chat-server)
 # Challenge: A Chat Server
 
 ### How long will this take?
